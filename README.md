@@ -2,8 +2,6 @@
 
 **ConvertToPdf** is a Windows-only Python script that automatically converts Microsoft Word, Excel, and PowerPoint documents in a folder to PDF format using installed Office applications.
 
----
-
 ## 🚀 Features
 
 - ✅ Converts `.doc`, `.docx`, `.ppt`, `.pptx`, `.xls`, `.xlsx` to `.pdf`
@@ -11,8 +9,6 @@
 - ✅ Processes all files in a selected folder
 - ✅ Displays progress using a progress bar (`tqdm`)
 - ✅ Logs any errors to a `logs.txt` file
-
----
 
 ## ⚠️ Requirements
 
